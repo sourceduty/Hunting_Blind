@@ -20,6 +20,8 @@ With an emphasis on user interaction, Hunting Blind uses a step-by-step question
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Animal Product](https://github.com/sourceduty/Animal_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
